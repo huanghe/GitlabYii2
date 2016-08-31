@@ -1,0 +1,21 @@
+{
+    "name": "hahaxixi/gitlab",
+    "description": "Gitlab Api for yii2",
+    "type": "yii2-extension",
+    "keywords": ["gitlab","php","yii2","api"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "hahaxixi",
+            "email": "huanghe2014@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "hahaxixi\\gitlab\\": ""
+        }
+    }
+}
